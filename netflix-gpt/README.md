@@ -7,7 +7,14 @@
 - Login Page
 - sign up form
 - Useref hook
-
+- Firebase
+- Deploy app
+- Create Signup 
+- Implement Signin User
+- Created Redux Store with userSlice
+- SignOut implemented 
+- Update Profile
+- Fetch TMDB APis
 
 
 # Features
